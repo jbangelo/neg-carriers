@@ -7,48 +7,48 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="Omega_neg_carrier_1.svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 215.9 279.4"
+   width="8.5in"
    height="11in"
-   width="8.5in">
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="omega_d2_blank.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
   <defs
      id="defs2">
     <rect
-       id="rect889"
-       height="8.0985939"
-       width="112.16552"
+       x="61.54931"
        y="235.66907"
-       x="61.54931" />
+       width="112.16552"
+       height="8.0985939"
+       id="rect889" />
     <rect
-       id="rect12"
-       height="25.10564"
-       width="41.707756"
+       x="16.602118"
        y="20.246485"
-       x="16.602118" />
+       width="41.707756"
+       height="25.10564"
+       id="rect12" />
   </defs>
   <sodipodi:namedview
-     units="in"
-     inkscape:window-maximized="1"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:window-height="1005"
-     inkscape:window-width="1680"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="in"
-     inkscape:cy="476.49638"
-     inkscape:cx="-12.898106"
-     inkscape:zoom="0.81295265"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35000692"
+     inkscape:cx="1064.8187"
+     inkscape:cy="550.68599"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     units="in" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,40 +57,40 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12);fill:#000000;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text10"
-       xml:space="preserve" />
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12);fill:#000000;fill-opacity:1;stroke:none;" />
     <path
-       transform="scale(0.26458333)"
-       d="M 53.300781 0.5 L 53.300781 160.13672 A 316.8 316.8 0 0 0 0.5 335.25195 A 316.8 316.8 0 0 0 53.300781 510.36914 L 53.300781 768.5 L 581.30078 768.5 L 581.30078 624.52344 L 562.57031 624.52344 L 562.57031 624.51172 A 12 12 0 0 1 550.58008 612.51172 A 12 12 0 0 1 562.57031 600.51172 L 562.57031 600.5 L 581.30078 600.50195 L 581.30078 510.36914 A 316.8 316.8 0 0 0 634.10156 335.25195 A 316.8 316.8 0 0 0 581.30078 160.13672 L 581.30078 72.521484 L 562.57031 72.521484 L 562.57031 72.509766 A 12 12 0 0 1 550.58008 60.509766 A 12 12 0 0 1 562.57031 48.509766 L 562.57031 48.5 L 581.30078 48.5 L 581.30078 0.5 L 53.300781 0.5 z "
-       style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect22" />
-    <path
-       transform="scale(0.26458333)"
-       style="fill:none;stroke-width:1.53044"
+       d="M 146.57872,689.53526 V 306.15933 H 409.81489 673.05106 V 689.53526 1072.9112 H 409.81489 146.57872 Z"
        id="path24"
-       d="M 146.57872,689.53526 V 306.15933 H 409.81489 673.05106 V 689.53526 1072.9112 H 409.81489 146.57872 Z" />
+       style="fill:none;stroke-width:1.53044"
+       transform="scale(0.26458333)" />
     <text
-       style="font-style:normal;font-weight:normal;font-size:7.05555999999999983px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect889);fill:#000000;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text887"
-       xml:space="preserve"><tspan
+       style="font-style:normal;font-weight:normal;font-size:7.05555999999999983px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect889);fill:#000000;fill-opacity:1;stroke:none;"><tspan
          x="61.548828"
          y="242.10692"><tspan
            style="font-size:7.05556px">Circle center is at 3.3x3.492</tspan></tspan></text>
     <rect
-       y="65.19368"
-       x="187.48244"
-       height="5.2578001"
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect913"
-       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       height="5.2578001"
+       x="187.48244"
+       y="65.19368" />
+    <path
+       id="path144-0"
+       style="fill:none;stroke:#000000;stroke-width:0.264999"
+       d="m 153.797,199.0344 c 0,2.37074 -1.92186,4.2926 -4.2926,4.2926 H 18.3951 c -2.37074,0 -4.2926,-1.92186 -4.2926,-4.2926 l -2e-6,-63.99923 C 4.9916805,121.30023 0.13238331,105.18406 0.13229166,88.702077 0.13248615,72.220277 4.991779,56.1043 14.102498,42.369507 l 2e-6,-37.9444072 c 0,-2.3707376 1.921862,-4.29260011 4.2926,-4.29260011 l 131.1093,-1.9e-7 c 2.37074,0 4.2926,1.9218617 4.2926,4.2925997 l 0.006,8.4071768 h -4.95577 v 0.0026 c -1.7525,0.0014 -3.17242,1.422503 -3.17242,3.175 0,1.752497 1.41992,3.1736 3.17242,3.175 v 0.0031 h 4.95577 v 23.181531 c 9.11072,13.734794 13.97001,29.850771 13.9702,46.33257 -9e-5,16.481973 -4.85938,32.598153 -13.9702,46.333093 v 23.84784 l -4.95577,-5.2e-4 v 0.003 c -1.7525,0.001 -3.17242,1.4225 -3.17242,3.175 0,1.7525 1.41992,3.174 3.17242,3.175 v 0.003 h 4.95577 z"
+       sodipodi:nodetypes="ccccccccccccccscccccccccscccc" />
   </g>
 </svg>
